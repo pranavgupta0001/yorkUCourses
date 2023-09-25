@@ -1,0 +1,3 @@
+LE/ESSE 4020 3.0
+Time Series and Spectral Analysis
+Fall 2023
