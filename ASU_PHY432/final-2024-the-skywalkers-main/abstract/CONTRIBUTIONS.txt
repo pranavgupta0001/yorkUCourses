@@ -1,0 +1,25 @@
+PHY432: Final Project
+Gravitational Impacts of the Death Star on Endor and Earth-like Planets
+
+Contribution list:
+
+- Simon Tebeck (50%) - Task 2, 3
+	- simulation of orbits
+	- simulation of surface gravity
+	- comparison of lunar and solar tides with 
+	  Death Star-induced tides
+	- animations
+- Pranav Gupta (50%) - Task 1, 4
+	- collection and estimation of significant data
+	- ramifications of Death Star's sudden disappearance
+	- impacts of the Death Star crashing into Earth
+	- animations
+
+Forms of communication:
+- Study room in Discord (3 meetings)
+- constant communication on WhatsApp
+- Collaboration on Overleaf and Google Docs
+- Organization with Notion and Wiki-pages on GitHub
+
+May The Force Be With You!
+- The Sykwalkers -
